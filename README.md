@@ -1,5 +1,4 @@
-<h1 align="center">🚀 Stellar: New Age v1.3 - Free DDoS Panel 🚀</h1>
-<p align="center">You are responsible for all damages.</p>
+# 🚀 Stellar: New Age v1.3 - Free DDoS Panel 🚀
 > v2 inside tomorrow or the day after tomorrow <3
 
 ![GitHub Logo](img.png)
