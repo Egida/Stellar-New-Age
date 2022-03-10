@@ -3,6 +3,12 @@
 
 ![GitHub Logo](img.png)
 
+- [x] Open Source
+- [x] Stable
+- [x] Simple
+- [x] Methods for Layer 4 and 7
+- [x] Bypass (CF, OVH, Etc)  
+
 # Setup
 ```sh
 git clone https://github.com/SkyWtkh/Stellar-New-Age
