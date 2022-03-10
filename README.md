@@ -1,13 +1,13 @@
 # 🚀 Stellar: New Age v1.3 - Free DDoS Panel 🚀
 > v2 inside tomorrow or the day after tomorrow <3
 
-![GitHub Logo](img.png)
-
 - [x] Open Source
 - [x] Stable
 - [x] Simple
 - [x] Methods for Layer 4 and 7
 - [x] Bypass (CF, OVH, Etc)  
+
+![GitHub Logo](img.png)
 
 # Setup
 ```sh
