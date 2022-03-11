@@ -28,6 +28,7 @@ npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
 ulimit -n 999999
+chmod +x *
 sudo python3 stellar.py
 ```
 
