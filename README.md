@@ -14,7 +14,7 @@ git clone https://github.com/SkyWtkh/Stellar-New-Age
 sudo apt-get install python3
 sudo apt-get install python2
 sudo apt-get install python3-pip
-sudo apt-get install npmnpm i net
+sudo apt-get install npm
 sudo apt-get install nodejs
 cd RayNet
 npm i crytpo-random-string
