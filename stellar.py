@@ -47,7 +47,7 @@ def layer4():
     ''')
 
 def main():
-    sys.stdout.write("\x1b]2;Stellar Net: | Online Users: [1] | Methods: [11] | Amp [0] | Bypass: [3]\x07".)
+    sys.stdout.write("\x1b]2;Stellar Net: | Online Users: [1] | Methods: [11] | Amp [0] | Bypass: [3]\x07")
     clear()
     print(f'''
                             \x1b[38;2;254;105;30m╔═╗╔╦╗╔═╗\x1b[38;2;255;138;5m╦  ╦  ╔═╗\x1b[38;2;255;162;3m╦═╗   \x1b[38;2;245;189;37m    ╔╗╔╔═╗╦ ╦ 
