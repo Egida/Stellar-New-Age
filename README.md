@@ -1,5 +1,4 @@
-# 🚀 Stellar: New Age v1.3 - Free DDoS Panel 🚀
-> v2 inside tomorrow or the day after tomorrow <3
+# 🚀 Stellar: New Age v2 - Free DDoS Panel 🚀
 
 - [x] Open Source
 - [x] Stable
@@ -27,6 +26,7 @@ npm i request
 npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
+python3 -m pip3 install -r requirements.txt
 ulimit -n 999999
 chmod +x *
 sudo python3 stellar.py
