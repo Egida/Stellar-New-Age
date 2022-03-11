@@ -6,7 +6,7 @@
 - [x] Methods for Layer 4 and 7
 - [x] Bypass (CF, OVH, Etc)  
 
-![GitHub Logo](img.png)
+![GitHub Logo](img.jpeg)
 
 # Setup
 ```sh
