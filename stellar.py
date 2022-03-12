@@ -147,7 +147,6 @@ def main():
         elif 'hcaptcha-solver' in cnc:
             try:
                 url = cnc.split()[1]
-                time = cnc.split()[2]
                 os.system(f'node Captcha.js {url}')
             except IndexError:
                 print('Usage: hcaptcha-solver <url>')
