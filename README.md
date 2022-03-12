@@ -1,4 +1,5 @@
-# 🚀 Stellar: New Age v2 - Free DDoS Panel 🚀
+# 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
+> Version 4 will be a mega update! Spoiler: AMP and Game Methods
 
 - [x] Open Source
 - [x] Stable
@@ -23,9 +24,11 @@ npm i fs
 npm i net
 npm i cloudscraper
 npm i request
+npm i hcaptcha-solver
 npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
+pip3 install datetime
 python3 -m pip3 install -r requirements.txt
 ulimit -n 999999
 chmod +x *
