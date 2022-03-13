@@ -2,15 +2,14 @@
 > Version 4 will be a mega update! Spoiler: AMP and Game Methods
 
 # V4 Plans!
-
-The v4 will have 2 types of plans:
-Mini plan
-Max plan
-The mini plan will be the first and you will only have methods for layer 4 (not so powerful)
-the max plan will have methods for layer 4 and 7 (medium powerful)
-recommendations:
-use the mini plan for servers or home networks
-use the max plan for websites
+The v4 will have 2 types of plans:<br>
+Mini plan<br>
+Max plan<br>
+The mini plan will be the first and you will only have methods for layer 4 (not so powerful)<br>
+the max plan will have methods for layer 4 and 7 (medium powerful)<br>
+recommendations:<br>
+use the mini plan for servers or home networks<br>
+use the max plan for websites<br>
 
 - [x] Open Source
 - [x] Stable
