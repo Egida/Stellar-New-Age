@@ -1,9 +1,16 @@
 # 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
-> Version 4 will be a mega update! Spoiler: AMP and Game Methods
 
-# V4 Ghost Methods!
-What are "Ghost" methods? These methods are mainly for layer 4, created by me with different payloads, the Ghost methods are fairly good.
+# V4 preview:
+The least powerful methods will be removed so that only the most powerful ones remain, as well as more powerful methods for layer 4 and 7 will be added.<br>
+1 AMP method and 2 Methods for Games will be added<br>
+The entire User Interface (UI) will be changed as well as the prompt and a title will be added<br>
+a section will be added where the ports and the rules are shown<br>
+ascii art animations will be added<br>
+tools will be added (ip lookup, ping, my ip, etc)<br>
+a login will be added<br>
+the number of proxies will be increased<br>
+
 
 # Stellar Info
 - [x] Open Source
