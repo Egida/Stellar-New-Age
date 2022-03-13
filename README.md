@@ -1,15 +1,8 @@
 # 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
 > Version 4 will be a mega update! Spoiler: AMP and Game Methods
 
-# V4 Plans!
-The v4 will have 2 types of plans:<br>
-Mini plan<br>
-Max plan<br>
-The mini plan will be the first and you will only have methods for layer 4 (not so powerful)<br>
-the max plan will have methods for layer 4 and 7 (medium powerful)<br>
-recommendations:<br>
-use the mini plan for servers or home networks<br>
-use the max plan for websites<br>
+# V4 Ghost Methods!
+What are "Ghost" methods? These methods are mainly for layer 4, created by me with different payloads, the Ghost methods are fairly good.
 
 - [x] Open Source
 - [x] Stable
