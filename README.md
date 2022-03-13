@@ -4,6 +4,7 @@
 # V4 Ghost Methods!
 What are "Ghost" methods? These methods are mainly for layer 4, created by me with different payloads, the Ghost methods are fairly good.
 
+# Stellar Info
 - [x] Open Source
 - [x] Stable
 - [x] Simple
