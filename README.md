@@ -12,7 +12,7 @@ a login will be added<br>
 the number of proxies will be increased<br>
 
 # Plz ♥️
-It would help me a lot if you give a star ⭐ to this repository.
+It would help me a lot if you give a star ⭐ to this repository.<br>
 One star from you = more desire to continue updating stellar
 
 # Stellar Info
