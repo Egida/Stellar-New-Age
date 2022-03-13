@@ -1,5 +1,5 @@
 # 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
-> Your terminal has to accept ANSI colors so that the colors can be seen
+> Your terminal has to accept ANSI colors so that the colors can be seen<br>
 > Version 4 will be a mega update! Spoiler: AMP and Game Methods
 
 # V4 Ghost Methods!
