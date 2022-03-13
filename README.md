@@ -3,6 +3,11 @@
 
 # Tree
 * [Announcements for V4](#V4-preview)
+* [Read this Pls](#plz-%EF%B8%8F)
+* [Stellar Info](Stellar-Info)
+* [Setup](#Setup)
+* [Credits](#Credits)
+* [T.O.S](#TOS)
 
 # V4 preview:
 The least powerful methods will be removed so that only the most powerful ones remain, as well as more powerful methods for layer 4 and 7 will be added.<br>
@@ -61,7 +66,7 @@ im-federal
 R00tS3C
 (Methods <3)
 Z3NTL3
-(UI <3)
+(Inspiration <3)
 ```
 
 # TOS:
