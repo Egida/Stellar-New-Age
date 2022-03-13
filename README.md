@@ -1,6 +1,9 @@
 # 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 
+# Tree
+* [Announcements for V4](#V4-preview)
+
 # V4 preview:
 The least powerful methods will be removed so that only the most powerful ones remain, as well as more powerful methods for layer 4 and 7 will be added.<br>
 1 AMP method and 2 Methods for Games will be added<br>
