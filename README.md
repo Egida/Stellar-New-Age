@@ -4,7 +4,7 @@
 # Tree
 * [Announcements for V4](#V4-preview)
 * [Read this Pls](#plz-%EF%B8%8F)
-* [Stellar Info](stellar-info)
+* [Stellar Info](Stellar-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
