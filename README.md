@@ -10,6 +10,7 @@
 * [T.O.S](#TOS)
 
 # V4 preview:
+![GitHub Logo](v4png)
 The least powerful methods will be removed so that only the most powerful ones remain, as well as more powerful methods for layer 4 and 7 will be added.<br>
 1 AMP method and 2 Methods for Games will be added<br>
 The entire User Interface (UI) will be changed as well as the prompt and a title will be added<br>
