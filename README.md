@@ -30,7 +30,7 @@ sudo apt-get install python2
 sudo apt-get install python3-pip
 sudo apt-get install npm
 sudo apt-get install nodejs
-cd Stellar-New-Age
+cd Stellar
 npm i crytpo-random-string
 npm i events
 npm i fs
