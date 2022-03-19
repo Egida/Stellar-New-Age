@@ -1,5 +1,7 @@
 # 🚀 Stellar: New Age v4 - Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
+> Username: GhostW<br>
+> Password: StellarW<br>
 
 # Tree
 * [Read this Pls](#plz-%EF%B8%8F)
