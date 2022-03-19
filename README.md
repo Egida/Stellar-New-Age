@@ -2,23 +2,11 @@
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 
 # Tree
-* [Announcements for V4](#V4-preview)
 * [Read this Pls](#plz-%EF%B8%8F)
 * [Stellar Info](Stellar-Info)
 * [Setup](#Setup)
 * [Credits](#Credits)
 * [T.O.S](#TOS)
-
-# V4 preview:
-![GitHub Logo](v4.png)
-The least powerful methods will be removed so that only the most powerful ones remain, as well as more powerful methods for layer 4 and 7 will be added.<br>
-1 AMP method and 2 Methods for Games will be added<br>
-The entire User Interface (UI) will be changed as well as the prompt and a title will be added<br>
-a section will be added where the ports and the rules are shown<br>
-ascii art animations will be added<br>
-tools will be added (ip lookup, ping, my ip, etc)<br>
-a login will be added<br>
-the number of proxies will be increased<br>
 
 # Plz ♥️
 It would help me a lot if you give a star ⭐ to this repository.<br>
