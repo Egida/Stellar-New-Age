@@ -42,6 +42,8 @@ npm i randomstring
 npm i cluster
 npm i cloudflare-bypasser
 pip3 install datetime
+pip3 install requests
+pip3 install cfscrape
 python3 -m pip3 install -r requirements.txt
 ulimit -n 999999
 chmod +x *
