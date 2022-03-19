@@ -1,4 +1,4 @@
-# 🚀 Stellar: New Age v3 - Free DDoS Panel 🚀
+# 🚀 Stellar: New Age v4 - Free DDoS Panel 🚀
 > Your terminal has to accept ANSI colors so that the colors can be seen<br>
 
 # Tree
@@ -23,7 +23,7 @@ One star from you = more desire to continue updating stellar
 
 # Setup
 ```sh
-git clone https://github.com/SkyWtkh/Stellar-New-Age
+git clone https://github.com/SkyWtkh/Stellar
 sudo apt-get install python3
 sudo apt-get install python2
 sudo apt-get install python3-pip
@@ -44,7 +44,7 @@ pip3 install datetime
 python3 -m pip3 install -r requirements.txt
 ulimit -n 999999
 chmod +x *
-sudo python3 stellar.py
+sudo python3 cnc.py
 ```
 
 # Credits
